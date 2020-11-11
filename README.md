@@ -5,22 +5,23 @@ Working of algorithms visualised. Using Tkinter, Networkx and Matplotlib.
 
 Visualizes different sorting Algorithms
 
-![](images/1.PNG)
+<img src="images/1.PNG" width="60%"/>
 
-
-![](images/2.PNG)
+<img src="images/2.PNG" width="60%"/>
 
 ## Sudoku solver 
 
 Uses a backtracking algorithm and the GUI visualizes how it works!
 
-![](images/3.PNG)
+<img src="images/3.PNG" width="60%"/>
 
-##Travelling Salesman Output graph Visualization
+## Travelling Salesman Output graph Visualization
 
-![](images/output1.PNG)
+<img src="images/output1.PNG" width="60%"/>
 
-![](images/output2.PNG)
+<img src="images/output2.PNG" width="60%"/>
 
-## Single-source shortest path problem (Otpimized Path output)  using Networkx and Matplotlib
-![](images/output3.PNG)
+## Bellman-Ford Algorithm
+Single-source shortest path problem (Otpimized Path output) using Networkx and Matplotlib
+
+<img src="images/output3.PNG" width="60%"/>
